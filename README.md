@@ -1,4 +1,4 @@
-# Hola, mi nombre es Emilio Lemos 👋
+# 🤖 Hola, mi nombre es Emilio Lemos 👋🇪🇨
 ### Ingeniero en Mecatrónica | Desarrollo de Software | Desarrollo de Hardware
 
 ![https://github.com/M1l01](./Banner.png)
