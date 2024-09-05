@@ -11,4 +11,4 @@ Actualmente, busco desarrollarme como profesional trabajando en proyectos person
 
 ## Encuéntrame en:
 
-[![TikTok](https://badgen.net/badge/@milotronic/TikTok/b)](https://www.tiktok.com/@milotronic)
+[![TikTok](https://img.shields.io/badge/TikTok-@milotronic-black?logo=tiktok)](https://www.tiktok.com/@milotronic)
