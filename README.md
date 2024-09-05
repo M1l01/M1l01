@@ -15,7 +15,7 @@ Mi objetivo es dedicarme al desarrollo de software y hardware embebido, me gusta
 
 ### Smart Chess
 
-<a href="https://github.com/M1l01/SmartChess"><img src="./SmartChess.jpg" style="height: 60%; width: 60%;"></a>
+<a href="https://github.com/M1l01/SmartChess"><img src="./SmartChess.jpg" style="height: 80%; width: 80%;"></a>
 
 ## Encuéntrame en:
 
