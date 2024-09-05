@@ -1,2 +1,2 @@
-## Hola, soy EmiljoDev 👋
-
+# Hola, soy EmiljoDev 👋
+### Ingeniero en Mecatrónica | Desarrollo de Software | Desarrollo de Hardware
