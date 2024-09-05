@@ -15,4 +15,6 @@ Actualmente, busco desarrollarme como profesional trabajando en proyectos person
 
 ## Proyectos
 
+### Smart Chess
+
 <a href="https://github.com/M1l01/SmartChess"><img src="./SmartChess.jpg" style="height: 60%; width: 60%;"></a>
