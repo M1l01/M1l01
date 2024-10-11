@@ -21,6 +21,7 @@ Mi objetivo es dedicarme al desarrollo de software y hardware embebido, me gusta
 
 [![TikTok](https://img.shields.io/badge/TikTok-@milotronic-black?logo=tiktok)](https://www.tiktok.com/@milotronic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emilio_Lemos-blue?logo=linkedin)](https://www.linkedin.com/in/emilio-lemosa/)
+[![Porfolio](https://api.netlify.com/api/v1/badges/bf16e59b-45c1-405f-9f97-0dc969aa3709/deploy-status)](https://app.netlify.com/sites/porfolio-emiljodev/deploys)
 
 ## Contacto:
 
