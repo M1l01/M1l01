@@ -28,4 +28,4 @@ Mi Porfolio en:
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/emiliolemos2001@hotmail.com-EMAIL_PERSONAL-orange?logo=linkedin)](mailto:emiliolemos2001@hotmail.com)
+[![Email](https://img.shields.io/badge/emiliolemos2001@hotmail.com-EMAIL_PERSONAL-orange)](mailto:emiliolemos2001@hotmail.com)
