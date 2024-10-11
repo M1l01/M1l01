@@ -18,7 +18,7 @@ Mi objetivo es dedicarme al desarrollo de software y hardware embebido, me gusta
 <a href="https://github.com/M1l01/SmartChess"><img src="./SmartChess.jpg" style="height: 80%; width: 80%;"></a>
 
 ## Encuéntrame en:
-Redes
+Redes:
 <br>
 [![TikTok](https://img.shields.io/badge/TikTok-@milotronic-black?logo=tiktok)](https://www.tiktok.com/@milotronic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emilio_Lemos-blue?logo=linkedin)](https://www.linkedin.com/in/emilio-lemosa/)
