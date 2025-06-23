@@ -14,6 +14,7 @@ Mi objetivo es dedicarme al desarrollo de software y hardware embebido, me gusta
 ## Proyectos
 
 ### Smart Chess
+Este proyecto despliega una ventana para jugar ajedrez, hecho con el framework de Tkinter en python.
 
 <a href="https://github.com/M1l01/SmartChess"><img src="./SmartChess.jpg" style="height: 80%; width: 80%;"></a>
 
